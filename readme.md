@@ -64,7 +64,7 @@ cd dayareka-fullstack-test
      ```
 4. Jalankan migrasi dan seeding:
 ```bash
-   npm run migrate
+   npm run generate
 ```
    Migrasi akan membuat tabel-tabel yang diperlukan, dan seeder akan mengisi data produk awal.
 5. Jalankan server backend:
